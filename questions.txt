@@ -1,0 +1,12 @@
+1. 
+Create an internal table for Patent data set.
+(Make sure not to include the header row)
+
+2. 
+Create an external table with dynamic partitioning for Patent data set so that it can be used efficiently for queries which require looking into patents granted for given year.
+
+3. 
+Find out number of patents granted in year 1963.
+
+4. 
+Find out number of patents granted in each country in year 1999.
