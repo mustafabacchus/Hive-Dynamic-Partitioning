@@ -14,7 +14,7 @@
 ## **Execution:**
 ###### 1. Download (clone) this repostory on your local machine.
 ###### 2. Unzip patents.db.zip.
-###### 3. Create a new folder called 'patent' using 'File View' (
+###### 3. Create a new folder called 'patent' using 'File View'
 ###### (https://hortonworks.com/tutorial/loading-and-querying-data-with-hadoop/)
 ###### 3. Place the data into HDFS using 'File View'
 ###### 4. Open Hive and copy paste the entire script and execute.
