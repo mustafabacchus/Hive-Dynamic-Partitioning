@@ -1,5 +1,5 @@
 ###### _Note: Requires a basic understanding of Hadoop, HortonWorks Sandbox, Apache Hive, and how to navigate HDFS through 'File View'._
-## **hive_assign1**
+## **Hive Dynamic Partitioning**
 ### _Data derived from public repositories of the U.S. Patent._
 ## **Description:**
 ###### This repository demonstrates syntax used for creating an internal and external table with dynamic partitioning using Apache Hive.
